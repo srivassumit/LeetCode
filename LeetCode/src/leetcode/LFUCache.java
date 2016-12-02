@@ -48,6 +48,12 @@ public class LFUCache {
 	private TreeSet<Key> treeSet;
 	private int maxSize;
 
+	/**
+	 * LeetCode Accepted solution for LFUCache
+	 * 
+	 * @param capacity
+	 *            the calacity of the LFUCache
+	 */
 	public LFUCache(int capacity) {
 		this.cache = new HashMap<Integer, Key>();
 		this.treeSet = new TreeSet<Key>(new KeyComparator());
@@ -130,7 +136,7 @@ public class LFUCache {
 		tc3();
 		System.out.println("---------------------------TestCase4---------------------------");
 		tc4();
-		System.out.println("---------------------------TestCase4---------------------------");
+		System.out.println("---------------------------TestCase5---------------------------");
 		tc5();
 	}
 
