@@ -1,7 +1,7 @@
 package com.leetcode.accepted;
 
 /**
- * <h1>Nim Game</h1>
+ * <h1>292. Nim Game (E)</h1>
  * <p>
  * You are playing the following Nim Game with your friend: There is a heap of
  * stones on the table, each time one of you take turns to remove 1 to 3 stones.

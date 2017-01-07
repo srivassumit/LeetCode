@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.TreeSet;
 
 /**
- * <h1>LFU Cache</h1>
+ * <h1>460. LFU Cache (H)</h1>
  * <p>
  * Design and implement a data structure for Least Frequently Used (LFU) cache.
  * It should support the following operations: get and set. <br>

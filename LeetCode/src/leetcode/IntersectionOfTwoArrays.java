@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * <h1>Intersection of Two Arrays</h1>
+ * <h1>349. Intersection of Two Arrays (E)</h1>
  * <p>
  * Given two arrays, write a function to compute their intersection.
  * </p>

@@ -1,7 +1,7 @@
 package com.leetcode.accepted;
 
 /**
- * <h1>Counting Bits</h1>
+ * <h1>338. Counting Bits (M)</h1>
  * <p>
  * Given a non negative integer number num. For every numbers i in the range 0 ≤
  * i ≤ num calculate the number of 1's in their binary representation and return
@@ -61,7 +61,8 @@ public class CountingBits {
 	/**
 	 * LeetCode accepted solution for Counting Bits
 	 * 
-	 * @param num the number
+	 * @param num
+	 *            the number
 	 * @return the count of 1s in bits representation
 	 */
 	public int[] countBits(int num) {

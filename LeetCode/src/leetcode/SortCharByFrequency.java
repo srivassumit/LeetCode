@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.accepted;
 
 import java.util.Comparator;
 import java.util.HashMap;
@@ -7,8 +7,11 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 /**
- * <h1>Sort Characters By Frequency</h1> Given a string, sort it in decreasing
- * order based on the frequency of characters.
+ * <h1>451. Sort Characters By Frequency (M)</h1>
+ * <p>
+ * Given a string, sort it in decreasing order based on the frequency of
+ * characters.
+ * </p>
  * <p>
  * <b> Example 1: </b>
  * </p>

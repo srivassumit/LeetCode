@@ -1,7 +1,7 @@
 package com.leetcode.accepted;
 
 /**
- * <h1>Battleships in a Board</h1>
+ * <h1>419. Battleships in a Board (M)</h1>
  * <p>
  * Given an 2D board, count how many different battleships are in it. The
  * battleships are represented with 'X's, empty slots are represented with '.'s.

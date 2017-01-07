@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * <h1>First Unique Character in a String</h1>
+ * <h1>387. First Unique Character in a String (E)</h1>
  * <p>
  * Given a string, find the first non-repeating character in it and return it's
  * index. If it doesn't exist, return -1.

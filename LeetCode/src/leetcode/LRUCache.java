@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * <h1>LRU Cache</h1>
+ * <h1>146. LRU Cache (H)</h1>
  * <p>
  * Design and implement a data structure for Least Recently Used (LRU) cache. It
  * should support the following operations: get and set. <br>

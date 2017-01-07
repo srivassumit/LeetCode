@@ -1,12 +1,15 @@
-package com.leetcode;
+package com.leetcode.accepted;
 
 import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * <h1>1. Two Sum (E)</h1>
+ * <p>
  * Given an array of integers, return indices of the two numbers such that they
  * add up to a specific target. You may assume that each input would have
  * exactly one solution.
+ * </p>
  * <p>
  * <b> Example:</b>
  * </p>

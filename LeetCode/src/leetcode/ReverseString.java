@@ -1,7 +1,7 @@
 package com.leetcode.accepted;
 
 /**
- * <h1>Reverse String</h1>
+ * <h1>344. Reverse String (E)</h1>
  * <p>
  * Write a function that takes a string as input and returns the string
  * reversed.

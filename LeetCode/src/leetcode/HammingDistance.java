@@ -1,7 +1,7 @@
 package com.leetcode.accepted;
 
 /**
- * <h1>Hamming Distance</h1>
+ * <h1>461. Hamming Distance (E)</h1>
  * <p>
  * The Hamming distance between two integers is the number of positions at which
  * the corresponding bits are different. <br>
